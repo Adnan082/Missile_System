@@ -10,7 +10,7 @@ Traditional missiles use fixed mathematical guidance laws (Proportional Navigati
 
 > **Can a neural network learn to guide a missile better than a formula — just by practicing?**
 
-The answer, after 5.5 million training steps, is **yes — 87% hit rate against a target executing real F-16 combat maneuvers.**
+The answer, after 5.5 million training steps, is **yes — 87% hit rate against a target executing real maneuvers.**
 
 ---
 
